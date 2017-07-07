@@ -57,11 +57,31 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Global.asax" />
+    <Content Include="SessionState1.aspx" />
+    <Content Include="SessionState2.aspx" />
     <Content Include="ViewState1.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SessionState1.aspx.cs">
+      <DependentUpon>SessionState1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SessionState1.aspx.designer.cs">
+      <DependentUpon>SessionState1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SessionState2.aspx.cs">
+      <DependentUpon>SessionState2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SessionState2.aspx.designer.cs">
+      <DependentUpon>SessionState2.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ViewState1.aspx.cs">
       <DependentUpon>ViewState1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -12,6 +12,8 @@ namespace ASP_Learning1
     // Meselen asagidaki numunede ViewState yaratmaqla textbox-daki value-nin sifirlanmamasina calisdiq.. 
     // Qeyd edek ki ASP.NET-de butun controllar ve elementler internal ViewState-e malikdirler.. bunun ucun ViewState istifade etmeden de value-lari saxlamaq mumkundur
     //Button2_Click metoduna bax
+    // ViewState serverde filan saxlanilmir. Ancaq cari sehife ucun html dom-da sifrelenmis formada saxlanilir
+    // sehifeni terk edilen anda sifirlanir
     public partial class ViewState1 : System.Web.UI.Page
     {
         int counter=1;
