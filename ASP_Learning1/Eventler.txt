@@ -1,0 +1,13 @@
+﻿Server Eventler
+
+1. Postback event
+Postback eventler web sehifeni derhal servere gonderir sorgu ucun ve server de ona cavab gonderir
+controllerlerin bezilerini autopostback etmek olur.. meselen textbox
+
+2. Cached events 
+Bu eventler web sehifenin viewState eventine qeyd olunur ta ki postback bash verene qeder
+Meselen: Textbox-un icine her hansi text yazdiqda sistem mesaj versin ki ment deyisdi
+Eger biz autopostback true etmesek bu zaman Cached event viewState-e qeyd edilecek ve ancaq her hansi clikden sonra bas verecek
+
+3. Validation eventler
+Bu eventler validation zamani bas verir... Sehife servere-e postback olmamisdan once. Butun validasiya controllerleri bu eventi istifade edir

@@ -1,0 +1,6 @@
+D:\ASP_Learning\trunk\IsPostBack_Lesson\IsPostback_Lesson\IsPostback_Lesson\bin\IsPostback_Lesson.dll.config
+D:\ASP_Learning\trunk\IsPostBack_Lesson\IsPostback_Lesson\IsPostback_Lesson\bin\IsPostback_Lesson.dll
+D:\ASP_Learning\trunk\IsPostBack_Lesson\IsPostback_Lesson\IsPostback_Lesson\bin\IsPostback_Lesson.pdb
+D:\ASP_Learning\trunk\IsPostBack_Lesson\IsPostback_Lesson\IsPostback_Lesson\obj\Debug\IsPostback_Lesson.csprojResolveAssemblyReference.cache
+D:\ASP_Learning\trunk\IsPostBack_Lesson\IsPostback_Lesson\IsPostback_Lesson\obj\Debug\IsPostback_Lesson.dll
+D:\ASP_Learning\trunk\IsPostBack_Lesson\IsPostback_Lesson\IsPostback_Lesson\obj\Debug\IsPostback_Lesson.pdb
