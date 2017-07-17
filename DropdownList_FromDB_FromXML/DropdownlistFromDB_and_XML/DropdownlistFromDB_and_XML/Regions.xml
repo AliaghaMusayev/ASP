@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Countries>
+  
+  <Country>
+    <CountryName>Azerbaijan</CountryName>
+    <City>Baku</City>
+  </Country>
+  
+  <Country> 
+    <CountryName>Azerbaijan</CountryName>
+  <City>Sumgayit</City>
+  </Country>
+
+  <Country>
+  <CountryName>Azerbaijan</CountryName>
+  <City>Xacmaz</City>
+  </Country>
+  
+    <Country>
+  <CountryName>Azerbaijan</CountryName>
+  <City>Lenkoran</City>
+    </Country>
+  
+</Countries>

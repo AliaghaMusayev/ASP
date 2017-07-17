@@ -65,10 +65,21 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="FromXML.aspx" />
     <Content Include="MainPage.aspx" />
-    <Content Include="Web.config" />
+    <Content Include="Regions.xml" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FromXML.aspx.cs">
+      <DependentUpon>FromXML.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FromXML.aspx.designer.cs">
+      <DependentUpon>FromXML.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.aspx.cs">
       <DependentUpon>MainPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
