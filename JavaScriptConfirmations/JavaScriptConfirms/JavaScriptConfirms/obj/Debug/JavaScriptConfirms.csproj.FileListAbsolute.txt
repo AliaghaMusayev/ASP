@@ -1,0 +1,5 @@
+D:\ASP_Learning\trunk\JavaScriptConfirmations\JavaScriptConfirms\JavaScriptConfirms\bin\JavaScriptConfirms.dll.config
+D:\ASP_Learning\trunk\JavaScriptConfirmations\JavaScriptConfirms\JavaScriptConfirms\bin\JavaScriptConfirms.dll
+D:\ASP_Learning\trunk\JavaScriptConfirmations\JavaScriptConfirms\JavaScriptConfirms\bin\JavaScriptConfirms.pdb
+D:\ASP_Learning\trunk\JavaScriptConfirmations\JavaScriptConfirms\JavaScriptConfirms\obj\Debug\JavaScriptConfirms.dll
+D:\ASP_Learning\trunk\JavaScriptConfirmations\JavaScriptConfirms\JavaScriptConfirms\obj\Debug\JavaScriptConfirms.pdb
